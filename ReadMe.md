@@ -1,5 +1,6 @@
 # Facility Manager translations (EN)
 Purpose of this repository is to receive changes/additions to translations of the game. Before starting contributing to this repo, read the contribution rules.
+Before releasing a new version of the game, I copy all the languages from here to the game.
 
 ## How to add/edit translation
 1. Fork this repo.
@@ -16,6 +17,7 @@ Purpose of this repository is to receive changes/additions to translations of th
 
 # Переводы Facility Manager (RU)
 Этот репозиторий нужен для добавления и изменения переводов. Прежде чем добавить, ознакомьтесь с правилами. 
+Перед выпуском новой версии, я копирую все языки отсюда в игру.
 
 ## Как добавить/редактировать перевод
 1. Форкните этот репозиторий.
