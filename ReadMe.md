@@ -10,7 +10,7 @@ I update English and Russian languages after releasing a new version of the game
 
 ## Contribution rules
 1. Don't add non-existing languages. 
-2. If you're editing existing translation, describe why your change is needed (for example "there were wrong translation").
+2. If you're editing existing translation, describe why your change is needed (for example "there was wrong translation").
 3. Don't remove identations and comments (written in English).
 4. Don't remove other languages.
 5. Don't rename "Languages" folder.
